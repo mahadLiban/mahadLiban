@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any project , just like to improve myself**
 
-- 🤝 Feel free to contact me **to talk about new tech.**
+- 🤝 Feel free to contact me **and talk about new tech.**
 
 - 💬 Ask me about **C, React , Js**
 
